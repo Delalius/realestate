@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfOffer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Offer>
+    <OfferName>124125412-0468</OfferName>
+    <Apartment>
+      <Addres>Стахурского 2 д</Addres>
+      <CostApartment>10000</CostApartment>
+      <CountOfRoom>3</CountOfRoom>
+      <PrivatePlot>false</PrivatePlot>
+    </Apartment>
+  </Offer>
+</ArrayOfOffer>

@@ -1,0 +1,8 @@
+D:\Programming\Проекты C#\Rea_Estate_Company\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Programming\Проекты C#\Rea_Estate_Company\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Programming\Проекты C#\Rea_Estate_Company\ClassLibrary1\bin\Debug\Core.dll
+D:\Programming\Проекты C#\Rea_Estate_Company\ClassLibrary1\bin\Debug\Core.pdb
+D:\Programming\Проекты C#\Rea_Estate_Company\ClassLibrary1\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Programming\Проекты C#\Rea_Estate_Company\ClassLibrary1\obj\Debug\Data.csproj.CopyComplete
+D:\Programming\Проекты C#\Rea_Estate_Company\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Programming\Проекты C#\Rea_Estate_Company\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

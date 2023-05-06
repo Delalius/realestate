@@ -1,0 +1,6 @@
+D:\Programming\Проекты C#\Rea_Estate_Company\Core\bin\Debug\Core.dll
+D:\Programming\Проекты C#\Rea_Estate_Company\Core\bin\Debug\Core.pdb
+D:\Programming\Проекты C#\Rea_Estate_Company\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\Programming\Проекты C#\Rea_Estate_Company\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Programming\Проекты C#\Rea_Estate_Company\Core\obj\Debug\Core.dll
+D:\Programming\Проекты C#\Rea_Estate_Company\Core\obj\Debug\Core.pdb

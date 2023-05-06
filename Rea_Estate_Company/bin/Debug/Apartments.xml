@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfApartment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Apartment>
+    <Addres>Стахурского 2 д</Addres>
+    <CostApartment>10000</CostApartment>
+    <CountOfRoom>3</CountOfRoom>
+    <PrivatePlot>false</PrivatePlot>
+  </Apartment>
+  <Apartment>
+    <Addres>СТельмаха 1 у</Addres>
+    <CostApartment>7563</CostApartment>
+    <CountOfRoom>2</CountOfRoom>
+    <PrivatePlot>true</PrivatePlot>
+  </Apartment>
+</ArrayOfApartment>

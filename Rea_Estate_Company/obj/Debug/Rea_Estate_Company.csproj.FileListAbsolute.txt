@@ -1,0 +1,12 @@
+D:\Programming\Проекты C#\Rea_Estate_Company\Rea_Estate_Company\obj\Debug\Rea_Estate_Company.csprojAssemblyReference.cache
+D:\Programming\Проекты C#\Rea_Estate_Company\Rea_Estate_Company\obj\Debug\Rea_Estate_Company.csproj.CoreCompileInputs.cache
+D:\Programming\Проекты C#\Rea_Estate_Company\Rea_Estate_Company\bin\Debug\Rea_Estate_Company.exe.config
+D:\Programming\Проекты C#\Rea_Estate_Company\Rea_Estate_Company\bin\Debug\Rea_Estate_Company.exe
+D:\Programming\Проекты C#\Rea_Estate_Company\Rea_Estate_Company\bin\Debug\Rea_Estate_Company.pdb
+D:\Programming\Проекты C#\Rea_Estate_Company\Rea_Estate_Company\bin\Debug\ClassLibrary1.dll
+D:\Programming\Проекты C#\Rea_Estate_Company\Rea_Estate_Company\bin\Debug\Core.dll
+D:\Programming\Проекты C#\Rea_Estate_Company\Rea_Estate_Company\bin\Debug\ClassLibrary1.pdb
+D:\Programming\Проекты C#\Rea_Estate_Company\Rea_Estate_Company\bin\Debug\Core.pdb
+D:\Programming\Проекты C#\Rea_Estate_Company\Rea_Estate_Company\obj\Debug\Rea_Estate_Company.csproj.CopyComplete
+D:\Programming\Проекты C#\Rea_Estate_Company\Rea_Estate_Company\obj\Debug\Rea_Estate_Company.exe
+D:\Programming\Проекты C#\Rea_Estate_Company\Rea_Estate_Company\obj\Debug\Rea_Estate_Company.pdb

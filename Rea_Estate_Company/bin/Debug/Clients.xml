@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <Surname>Каракулин</Surname>
+    <Name>Антон</Name>
+    <CardNamber>4537694610583548</CardNamber>
+    <Offers />
+  </Client>
+  <Client>
+    <Surname>Лазур</Surname>
+    <Name>Тарас</Name>
+    <CardNamber>8674531067354723</CardNamber>
+    <Offers />
+  </Client>
+</ArrayOfClient>
